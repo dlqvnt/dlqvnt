@@ -238,102 +238,31 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 https://aqfadtv.xyz/live/arena2/index.mpd
 
-#EXTINF:-1 tvg-id="wc2022-1" tvg-name="wc2022 1" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="SPORTS",ASTRO FWC 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium294/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5090
-@EXTINF:-1 tvg-id="wc2022-1" tvg-name="wc2022 1" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="SPORTS",ASTRO FWC 1
-#http://linears-playback.astro.com.my/vsg/41ndk0-eDLDJS0TwkNuO2uyOAWpUNXagZxVU4b9gKDc_8=l3RR/dash-wv/jitp-linearwm/5090/default_primary.mpd
-
-#EXTINF:-1 tvg-id="wc2022-2" tvg-name="wc2022 2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="SPORTS",ASTRO FWC 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium295/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5091
-@EXTINF:-1 tvg-id="wc2022-2" tvg-name="wc2022 2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="SPORTS",ASTRO FWC 2
-#http://linears-playback.astro.com.my/vsg/415IyuP-r1XOhScyM_2pR8ttoUZ9aaOQwTxTVsibDxBxc=HXxA/dash-wv/jitp-linearwm/5091/default_primary.mpd
-
 #EXTINF:-1 tvg-id="AstroSuperSport.my" group-title="SPORTS" ch-number="811" tvg-logo="https://i.ibb.co/1bYD50N/assp.png",ASSP1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/601
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="AstroSuperSport.my" group-title="SPORTS" ch-number="811" tvg-logo="https://i.ibb.co/1bYD50N/assp.png",ASSP1 (B)
-https://webudi.openhd.lol/lb/premium123/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
 
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="ASSP2" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="SPORTS",ASSP2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2104
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="ASSP2" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="SPORTS",ASSP2 (B)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2104
-https://aqfadtv.xyz/live/supersport2/index.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="ASSP2" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="SPORTS",ASSP2 (B)
-https://webudi.openhd.lol/lb/premium124/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
-
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="ASSP3" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="SPORTS",ASSP3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2701
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="ASSP3" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="SPORTS",ASSP3 (B)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2701
-https://aqfadtv.xyz/live/supersport3/index.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="ASSP3" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="SPORTS",ASSP3 (B)
-https://webudi.openhd.lol/lb/premium125/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
-#http://51.79.82.208:16062
 
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="ASSP4" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="SPORTS",ASSP4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2506
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="ASSP4" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="SPORTS",ASSP4 (B)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2506
-https://aqfadtv.xyz/live/supersport4/index.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="ASSP4" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="SPORTS",ASSP4 (B)
-https://webudi.openhd.lol/lb/premium126/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
-
 #EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-name="ASSP5" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="SPORTS",ASSP5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
 https://aqfadtv.xyz/live/supersport5/index.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-name="ASSP5" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="SPORTS",ASSP5 (B)
-https://webudi.openhd.lol/lb/premium43/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1601
@@ -408,89 +337,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_primary.mpd
 
 ----------------SPORTS XTRA---------------------
 
-#EXTINF:-1 tvg-id="beINSportsCanada.ca" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-sport-us.png" group-title="SPORTS XTRA",beIN Sports HD USA
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium425/index.m3u8
-
-#EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bt-sport1.png" group-title="SPORTS XTRA",BT Sport 1 UK
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium31/index.m3u8
-#http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/370
-
-#EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bt-sport2.png" group-title="SPORTS XTRA",BT Sport 2 UK
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium32/index.m3u8
-#http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/368
-
-#EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bt-sport3.png" group-title="SPORTS XTRA",BT Sport 3 UK
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium33/index.m3u8
-#http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/366
-
-#EXTINF:-1 tvg-id="BTSport4.uk" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bt-sport4.png" group-title="SPORTS XTRA",BT Sport 4 UK
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium34/index.m3u8
-#http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1743
-
-#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/sky-sport-news.png" group-title="SPORTS XTRA",Sky Sport News UK
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium366/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/sky%20sports%20main%20event.png" group-title="SPORTS XTRA",Sky Sports Main Event UK
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium38/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-#http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/376
-
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/sky%20sports%20football.png" group-title="SPORTS XTRA",Sky Sports Football UK
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium35/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-#http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/6203
-
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/sky%20sports%20premier%20league.png" group-title="SPORTS XTRA",Sky Sports Premier League UK
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium130/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-#http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/372
-
-#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/sky%20sports%20arena.png" group-title="SPORTS XTRA",Sky Sports Arena UK
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium36/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-#http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/6200
-
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/sky%20sports%20f1.png" group-title="SPORTS XTRA",Sky Sports F1 UK
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium60/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-#http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/337
-
-#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/sky%20sports%20mix.png" group-title="SPORTS XTRA",Sky Sports Mix HD UK
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium449/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-#http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1821
-
-#EXTINF:-1 tvg-id="Sports.18.-.1.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Sports18.png/revision/latest?cb=20220415104510" group-title="SPORTS XTRA",Sports 18-1
-http://eu.majes-line.co/play/live.php?mac=00:1A:79:B6:B8:BF&stream=811763&extension=ts
-
 #EXTINF:-1 tvg-id="SonyTen1.in" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/sony-ten1.png" group-title="SPORTS XTRA",Sony Ten 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
@@ -518,103 +364,28 @@ https://av-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://av-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
 
-#EXTINF:0 tvg-id="MNCSports.id" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/mnc-sports1.png" group-title="SPORTS XTRA" tvg-id="075" tvg-name="075-MNC-SPORTS-1", MNC SPORTS 1
+#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://gdplayer.tv/assets/img/logo/soccer-channel.png" group-title="SPORTS XTRA",MNC Soccer Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveaneviadev.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
+#EXTINF:0 tvg-id="MNCSports.id" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/mnc-sports1.png" group-title="SPORTS XTRA",MNC SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://av-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
-#EXTINF:0 tvg-id="MNCSports2.id" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/mncsports2.png" group-title="SPORTS XTRA" tvg-id="076" tvg-name="076-MNC-SPORTS-2", MNC SPORTS 2
+#EXTINF:0 tvg-id="MNCSports2.id" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/mncsports2.png" group-title="SPORTS XTRA",MNC SPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://av-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
-#EXTINF:0 tvg-id="MNCSports3.id" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/mncsports3.png" group-title="SPORTS XTRA" tvg-id="077" tvg-name="077-MNC-SPORTS-3", MNC SPORTS 3
+#EXTINF:0 tvg-id="MNCSports3.id" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/mncsports3.png" group-title="SPORTS XTRA",MNC SPORTS 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://av-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/tvri-sports.png" group-title="SPORTS XTRA",TVRI Sport
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/supersport-football.png" group-title="SPORTS XTRA",SuperSport Football
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium56/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/supersport-pl.png" group-title="SPORTS XTRA",SuperSport Premier League
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium414/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/supersport%20laliga.png" group-title="SPORTS XTRA",SuperSport LaLiga
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium415/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/skysport1nz.png" group-title="SPORTS XTRA",Sky Sport 1 NZ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium588/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/skysport2nz.png" group-title="SPORTS XTRA",Sky Sport 2 NZ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium589/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/skysport3nz.png" group-title="SPORTS XTRA",Sky Sport 3 NZ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium590/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/skysport4nz.png" group-title="SPORTS XTRA",Sky Sport 4 NZ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium591/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/skysport5nz.png" group-title="SPORTS XTRA",Sky Sport 5 NZ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium592/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/skysport6nz.png" group-title="SPORTS XTRA",Sky Sport 6 NZ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium593/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/skysport7nz.png" group-title="SPORTS XTRA",Sky Sport 7 NZ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium594/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/skysport-pl-nz.png" group-title="SPORTS XTRA",Sky Sport PL NZ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium595/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="SKY.Sport.9.nz" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/skysport9nz.png" group-title="SPORTS XTRA",Sky Sport 9 NZ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium596/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="DAZN.1.es" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/dazn1es.png" group-title="SPORTS XTRA",DAZN 1 ES
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium445/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="DAZN.2.es" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/dazn2es.png" group-title="SPORTS XTRA",DAZN 2 ES
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium446/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="DAZN.3.es" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/dazn3es.png" group-title="SPORTS XTRA",DAZN 3 ES
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium447/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="DAZN.4.es" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/dazn4es.png" group-title="SPORTS XTRA",DAZN 4 ES
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium448/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/dubai-sport1.png" group-title="SPORTS XTRA",DUBAI SPORT 1
 #KODIPROP:inputstream=inputstream.adaptive
@@ -641,149 +412,11 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CBSSports.us" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/cbs-sports.png" group-title="SPORTS XTRA",CBS Sports
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium308/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/MUTV.png" group-title="SPORTS XTRA",MUTV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/ESPN1.png" group-title="SPORTS XTRA",ESPN
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium44/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/espn2.png" group-title="SPORTS XTRA",ESPN 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium45/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 #EXTINF:-1 group-title="SPORTS XTRA" tvg-id="EDGEsport.us" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/edge-sport.png",EDGEsport
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
-
--------------------BEIN-SPORTS-QATAR------------------
-@EXTINF:-1 tvg-id="CHN" tvg-logo="https://vipotv.com/wp-content/uploads/2022/09/Qatar-TV-live-vipotv-qatar.png" group-title="BEIN SPORTS QATAR",Qatar TV
-https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
-
-@EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max1.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 1
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12303.ts
-
-#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max1.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium296/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-@EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max2.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 2
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12304.ts
-
-#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max2.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium297/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-@EXTINF:-1 tvg-id="beINSportsMax3.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max3.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 3
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12305.ts
-
-#EXTINF:-1 tvg-id="beINSportsMax3.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max3.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium298/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-@EXTINF:-1 tvg-id="beINSportsMax4.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max4.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 4
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12306.ts
-
-#EXTINF:-1 tvg-id="beINSportsMax4.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max4.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 4
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium299/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-@EXTINF:-1 tvg-id="beINSportsMax5.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max4.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 5
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12307.ts
-
-@EXTINF:-1 tvg-id="beINSportsMax6.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max4.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 6
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12308.ts
-
-#EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-eng1.png" group-title="BEIN SPORTS QATAR",beIN SPORTS ENGLISH 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium61/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-#http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/330
-
-#EXTINF:-1 tvg-id="beINSportsEnglish2.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-eng2.png" group-title="BEIN SPORTS QATAR",beIN SPORTS ENGLISH 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium90/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-#http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/329
-
-#EXTINF:-1 tvg-id="beINSportsEnglish3.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-eng3.png" group-title="BEIN SPORTS QATAR",beIN SPORTS ENGLISH 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium46/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="beINSportsPremium1.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-1-pr.png" group-title="BEIN SPORTS QATAR",beIN Sports 1 Premium
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/76
-https://webudi.openhd.lol/lb/premium98/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="beINSportsPremium2.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-2-pr.png" group-title="BEIN SPORTS QATAR",beIN Sports 2 Premium
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/75
-https://webudi.openhd.lol/lb/premium99/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="beINSportsPremium3.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-3-pr.png" group-title="BEIN SPORTS QATAR",beIN Sports 3 Premium
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium100/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-#http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/74
-
-#EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein1.png" group-title="BEIN SPORTS QATAR",beIN Sports 1 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium91/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-#http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/322
-
-#EXTINF:-1 tvg-id="beINSports2.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein2.png" group-title="BEIN SPORTS QATAR",beIN Sports 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium92/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-#http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/320
-
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein3.png" group-title="BEIN SPORTS QATAR",beIN Sports 3 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium93/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-#http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/319
-
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein4.png" group-title="BEIN SPORTS QATAR",beIN Sports 4
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium94/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-#http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/318
-
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein5.png" group-title="BEIN SPORTS QATAR",beIN Sports 5
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium95/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-#http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/317
-
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein6.png" group-title="BEIN SPORTS QATAR",beIN Sports 6
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium96/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-#http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/316
-
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein7.png" group-title="BEIN SPORTS QATAR",beIN Sports 7
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium97/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-#http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/315
 
 --------------------KIDS------------------------
 
@@ -837,16 +470,6 @@ https://legochannel-roku.amagi.tv/playlist404-p.m3u8
 #https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_127.m3u8
 
-#EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/disney-channel.png" group-title="KIDS",Disney Channel US
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium312/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/disney-xd.png" group-title="KIDS",Disney XD US
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium314/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
 #EXTINF:-1 tvg-id="EBSKids.kr" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/ebs-kids.png" group-title="KIDS",EBS Kids
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -871,11 +494,6 @@ https://aqfadtv.xyz/live/hbo/index.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://av-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
-
-#EXTINF:-1 tvg-id="HBOEast.us" tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="MOVIES",HBO EN
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium321/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 #EXTINF:-1 tvg-id="HBOHitsAsia.sg" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/vP3hkjH/hhit.png" group-title="MOVIES",HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1344,53 +962,6 @@ http://45.126.83.51/dr9445/h/h15/01.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1 tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/ficomtv.png" group-title="ENTERTAINMENT",Ficom Channel
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ITV+1.uk" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/itv1.png" group-title="ENTERTAINMENT",itv1 UK
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium350/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="FoxEast.us" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/fox-network-usa.png" group-title="ENTERTAINMENT",FOX Network USA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium54/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="ComedyCentralUK.uk" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/comedy-central.png" group-title="ENTERTAINMENT",Comedy Central
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium310/index.m3u8
-
-#EXTINF:-1 tvg-id="CBSEast.us" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/cbs.png" group-title="ENTERTAINMENT",CBS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium52/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="InvestigationDiscoveryEast.us" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/investigation-discovery.png" group-title="ENTERTAINMENT",Investigation Discovery
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium324/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/showtime.png" group-title="ENTERTAINMENT",Showtime
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium333/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/spike.png" group-title="ENTERTAINMENT",Spike
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium321/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="USANetworkEast.us" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/usa-network.png" group-title="ENTERTAINMENT",USA Network
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium343/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="FXEast.us" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/fx-network.png" group-title="ENTERTAINMENT",FX Network
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium317/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
 -------------------DOCUMENTARY-------------------------------
 
 #EXTINF:-1 tvg-id="HistoryChannel.id" tvg-name="History" tvg-logo="https://i.ibb.co/d5hDH0n/gki.png" group-title="DOCUMENTARY",History
@@ -1537,38 +1108,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5070/default_primary.mpd
 #EXTINF:-1 tvg-id="603" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/tutor-tv.png" group-title="EDUCATIONAL",ASTRO TUTOR TV SMK
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 
-------------UNITED KINGDOM-----------
-
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bbc-news.png" group-title="NEWS",BBC News UK
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium349/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="BBCFour.uk" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bbc-4.png" group-title="ENTERTAINMENT",BBC Four
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium359/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="E4UK.uk" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/e4.png" group-title="ENTERTAINMENT",E4
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium363/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="RacingTV.uk" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/racingtv-uk.png" group-title="SPORTS XTRA",Racing TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium555/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/at-the-races.png" group-title="SPORTS XTRA",At The Races
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium554/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/mlb-network.png" group-title="SPORTS XTRA",MLB Network
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium399/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
 --------------------MUSIC--------------------------
 
 #EXTINF:-1 tvg-id="718" tvg-name="MTV Live HD" tvg-logo="https://i.ibb.co/NN94bf1/ghg.png" group-title="MUSIC",MTV Live Asia
@@ -1580,13 +1119,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="Kerrang.uk" group-title="MUSIC" ch-number="719" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/kerrang.png",KERRANG! TV UK
 http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1928
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/mtv-classic.png" group-title="MUSIC",MTV Classic
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium371/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="MUSIC" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/the%20edge.png",The edge
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
