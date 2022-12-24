@@ -122,7 +122,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 #https://aqfadtv.xyz/live/warna/index.mpd
 #http://51.81.208.129:35461/80203091402/213445/5075
-https://linears-playback.astro.com.my/vsg/41lw3Drv5xmoP56NwM-MHltfSXyY0uVeovL6YK0VXaPIg=AqYf/dash-wv/jitp-linearwm/2402/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41lw3Drv5xmoP56NwM-MHltWasT_Hqs6yFYHHL-Cp-9Us=eaAP/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-logo="https://i.ibb.co/YTtVttS/citra.png" group-title="MALAYSIA",Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -130,7 +130,7 @@ https://linears-playback.astro.com.my/vsg/41lw3Drv5xmoP56NwM-MHltfSXyY0uVeovL6YK
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 #https://aqfadtv.xyz/live/citra/index.mpd
 #http://139.99.96.163:2095/live/User48278/tBw10zkne9/14.ts
-https://linears-playback.astro.com.my/vsg/41lw3Drv5xmoP56NwM-MHltcknfwYiKXYaib4Gsxejqbc=HnLO/dash-wv/jitp-linearwm/2700/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41lw3Drv5xmoP56NwM-MHltT7VS9CQX22BU1d_BqpMid0=_HKY/dash-wv/jitp-linearwm/2700/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroAura.my" tvg-name="Astro Aura" tvg-logo="https://i.ibb.co/YbNWSYK/aura.png" group-title="MALAYSIA",Aura
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -238,7 +238,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
-https://linears-playback.astro.com.my/vsg/41p6g2euXIZ9imiSvPwxSrEgLJ7XnwYB39N5UksTCp5v0=toKH/dash-wv/jitp-linearwm/5057/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41p6g2euXIZ9imiSvPwxSrElH67SvYXSBhkA-mzo63810=cIfw/dash-wv/jitp-linearwm/5057/default_ott.mpd
 #https://aqfadtv.xyz/live/arena2/index.mpd
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" group-title="SPORTS" ch-number="811" tvg-logo="https://i.ibb.co/1bYD50N/assp.png",ASSP1 
@@ -284,9 +284,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
 
 #EXTINF:-1 tvg-id="beINSports2" ch-number="818" group-title="SPORTS" tvg-logo="https://i.ibb.co/5vfCzNb/was.png",beIN Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5013
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5066
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
 
 #EXTINF:-1 tvg-id="beINSports3" group-title="SPORTS" ch-number="819" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-sports-3.png",beIN Sports 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
