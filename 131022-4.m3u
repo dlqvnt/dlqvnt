@@ -528,7 +528,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 
 #EXTINF:-1 tvg-id="iQIYI" ch-number="300" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/iqiyi.png" group-title="MOVIES",IQIYI HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1006
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1006
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd?10
 
 #EXTINF:-1 tvg-id="Boo.my" tvg-name="BOO" tvg-logo="https://i.ibb.co/DLFXxsk/boo.png" group-title="MOVIES",BOO
