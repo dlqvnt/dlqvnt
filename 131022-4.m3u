@@ -637,7 +637,7 @@ https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.m
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=f5158194cc4044e699d0df01772f2212&key=072e611a383a2d1e3d4d8ea19e016a71
-#EXTINF:-1 tvg-ID="SoccerChannel.id" group-title="SG&BRUNEI" tvg-logo="https://imgur.io/a/1IuXxXU.png",CH01
+#EXTINF:-1 tvg-ID="SoccerChannel.id" group-title="SG&BRUNEI" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=45&ImageId=%275535866%27&EntityType=%27Item%27&EntityId=%27258703%27&Width=316&Height=316&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",AFF CH01
 https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/rtb-sukmaindera.png" group-title="SG&BRUNEI",RTB Sukmaindera(Brunei) 
