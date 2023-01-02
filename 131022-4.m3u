@@ -1096,17 +1096,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5014
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="Kerrang.uk" group-title="MUSIC" ch-number="719" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/kerrang.png",KERRANG! TV UK
-http://portal.geniptv.com:8080/tolgax1x/JNKsdsadsa1a/1928
-
-#EXTINF:-1 tvg-id="" group-title="MUSIC" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/the%20edge.png",The edge
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="MUSIC" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/mtv-others.png",MTV YO!
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
 #EXTINF:-1 tvg-id="" group-title="MUSIC" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/mtv-others.png",MTV POP
@@ -1156,6 +1145,10 @@ http://astro1.rastream.com/hitz?type=.flv&_=0.6058576568029821
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="MIX" tvg-name="MIX" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/mix-fm.png" group-title="RADIO",MIX
 https://astro2.rastream.com/mix
+
+#EXTINF:-1 tvg-id="CHN" group-title="RADIO" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/the%20edge.png",The Edge
+https://livestream.mediaworks.nz/radio_origin/edge_128kbps/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CHN" group-title="RADIO" tvg-logo="https://media2.fishtank.my/stations/astro-kbs-world/updated/square_md.png",KBS World Radio
 https://hls.rastream.com/astro-kbs-world
 #EXTINF:-1 tvg-id="CHN" radio="true" group-title="RADIO" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/29877.v17.png",TBS eFM
