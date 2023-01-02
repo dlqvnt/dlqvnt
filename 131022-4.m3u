@@ -142,22 +142,22 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
-#EXTINF:-1 tvg-id="Dunia Sinema" group-title="MALAYSIA" tvg-id="Dunia Sinema" tvg-chno="128" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/dunia-sinema.png",128 Dunia Sinema HD
+#EXTINF:-1 tvg-id="128" group-title="MALAYSIA" tvg-id="Dunia Sinema" tvg-chno="128" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/dunia-sinema.png",128 Dunia Sinema HD
 https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/ 
-#EXTINF:-1 tvg-id="Sensasi" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/sensasi.png" group-title="MALAYSIA",Sensasi HD 
+#EXTINF:-1 tvg-id="116" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/sensasi.png" group-title="MALAYSIA",Sensasi HD 
 https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/ 
-#EXTINF:-1 tvg-id="Inspirasi" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/inspirasi.png" group-title="MALAYSIA",Inspirasi 
+#EXTINF:-1 tvg-id="118" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/inspirasi.png" group-title="MALAYSIA",Inspirasi 
 https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/ 
-#EXTINF:-1 tvg-id="Degup" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/degup.png" group-title="MALAYSIA",Degup 
+#EXTINF:-1 tvg-id="120" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/degup.png" group-title="MALAYSIA",Degup 
 https://aqfadtv.xyz/live/unifitv/degup/index.mpd
 
 #EXTINF:-1 tvg-id="GoShopBAARU" group-title="MALAYSIA" ch-number="111" tvg-logo="https://raw.githubusercontent.com/dlqvnt/dlqvnt/main/logo/goshop.png",Go Shop
